@@ -1,0 +1,17 @@
+C:\Users\Taki\Desktop\mouse(2)\mouse\bin\Release\mouse.exe
+C:\Users\Taki\Desktop\mouse(2)\mouse\bin\Release\mouse.pdb
+C:\Users\Taki\Desktop\mouse(2)\mouse\obj\x86\Release\mouse.打地鼠.resources
+C:\Users\Taki\Desktop\mouse(2)\mouse\obj\x86\Release\mouse.Properties.Resources.resources
+C:\Users\Taki\Desktop\mouse(2)\mouse\obj\x86\Release\mouse.csproj.GenerateResource.Cache
+C:\Users\Taki\Desktop\mouse(2)\mouse\obj\x86\Release\mouse.exe
+C:\Users\Taki\Desktop\mouse(2)\mouse\obj\x86\Release\mouse.pdb
+C:\Users\Taki\Desktop\mouse(2)\mouse\obj\x86\Release\mouse.csprojResolveAssemblyReference.cache
+D:\Code\smallgreen\打地鼠\mouse\bin\Release\mouse.exe
+D:\Code\smallgreen\打地鼠\mouse\bin\Release\mouse.pdb
+D:\Code\smallgreen\打地鼠\mouse\obj\x86\Release\mouse.csproj.AssemblyReference.cache
+D:\Code\smallgreen\打地鼠\mouse\obj\x86\Release\mouse.打地鼠.resources
+D:\Code\smallgreen\打地鼠\mouse\obj\x86\Release\mouse.Properties.Resources.resources
+D:\Code\smallgreen\打地鼠\mouse\obj\x86\Release\mouse.csproj.GenerateResource.cache
+D:\Code\smallgreen\打地鼠\mouse\obj\x86\Release\mouse.csproj.CoreCompileInputs.cache
+D:\Code\smallgreen\打地鼠\mouse\obj\x86\Release\mouse.exe
+D:\Code\smallgreen\打地鼠\mouse\obj\x86\Release\mouse.pdb

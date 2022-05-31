@@ -1,0 +1,17 @@
+C:\Users\xinxi\Desktop\153222张方泷\mouse\mouse\bin\Debug\mouse.exe
+C:\Users\xinxi\Desktop\153222张方泷\mouse\mouse\bin\Debug\mouse.pdb
+C:\Users\xinxi\Desktop\153222张方泷\mouse\mouse\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\xinxi\Desktop\153222张方泷\mouse\mouse\obj\x86\Debug\mouse.Properties.Resources.resources
+C:\Users\xinxi\Desktop\153222张方泷\mouse\mouse\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\xinxi\Desktop\153222张方泷\mouse\mouse\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\xinxi\Desktop\153222张方泷\mouse\mouse\obj\x86\Debug\mouse.exe
+C:\Users\xinxi\Desktop\153222张方泷\mouse\mouse\obj\x86\Debug\mouse.pdb
+C:\Users\xinxi\Desktop\153222张方泷\mouse\mouse\obj\x86\Debug\mouse.打地鼠.resources
+C:\Users\Taki\Desktop\mouse(2)\mouse\obj\x86\Debug\mouse.exe
+C:\Users\Taki\Desktop\mouse(2)\mouse\obj\x86\Debug\mouse.pdb
+C:\Users\Taki\Desktop\mouse(2)\mouse\bin\Debug\mouse.exe
+C:\Users\Taki\Desktop\mouse(2)\mouse\bin\Debug\mouse.pdb
+C:\Users\Taki\Desktop\mouse(2)\mouse\obj\x86\Debug\mouse.csprojResolveAssemblyReference.cache
+C:\Users\Taki\Desktop\mouse(2)\mouse\obj\x86\Debug\mouse.打地鼠.resources
+C:\Users\Taki\Desktop\mouse(2)\mouse\obj\x86\Debug\mouse.Properties.Resources.resources
+C:\Users\Taki\Desktop\mouse(2)\mouse\obj\x86\Debug\mouse.csproj.GenerateResource.Cache
